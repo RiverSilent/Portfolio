@@ -12,7 +12,14 @@ section{
 .project-1,
 .project-2,
 .project-3{
-	width: 30%;
-	margin-right: 10px;
+	width: 31%;
 }
 
+.project-1,
+.project-2{
+	margin-right: 3%;
+}
+
+.project-3{
+	margin-right: 0;
+}
